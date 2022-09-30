@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat%7CRaleway%27");
+
+header{
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+
+}
+
+#carrusel{
+    position: static;
+    z-index: 1;
+
+}
+
+.negro{
+    color: #020302;
+
+}
+
+#hola{
+    background-color: aquamarine;
+}
+
+.centrar{
+    margin: 0 auto;
+}
+
+#slogan{
+}
+
+#logo{
+    align-items: center;
+}
