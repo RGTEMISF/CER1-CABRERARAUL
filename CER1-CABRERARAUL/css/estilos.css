@@ -22,21 +22,13 @@ header{
     border: 2px solid black;
 }
 
+.blanco{
+    color: white;
+}
 
 .negro{
     color: #020302;
 
-}
-
-#hola{
-    background-color: aquamarine;
-}
-
-.centrar{
-    margin: 0 auto;
-}
-
-#slogan{
 }
 
 #logo{
